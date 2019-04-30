@@ -36,7 +36,8 @@ If you find this code useful for your research, please cite:
   howpublished = {\url{https://github.com/ne7ermore/yolo-v3}}
 }
 ```
-
+参考文献：https://arxiv.org/pdf/1612.08242.pdf
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650741259&idx=1&sn=03dfb0fa3396e5464fc358b5a803e7bf&chksm=871ade75b06d5763a45f3c5da1ca62023a13c5cf7ce52a0a23e6c320f129f79bb9b3be4d2da0&scene=21#wechat_redirect
 ## Contact
 Feel free to contact me if there is any question (Tao liaoyuanhuo1987@gmail.com).
-2949465671@qq.com
+（TJMtaotao）2949465671@qq.com
